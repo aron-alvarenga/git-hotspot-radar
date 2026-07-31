@@ -1,0 +1,1 @@
+print("radar-hotspots CLI")
